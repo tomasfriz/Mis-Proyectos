@@ -1,0 +1,109 @@
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.exe
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.deps.json
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.runtimeconfig.json
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.runtimeconfig.dev.json
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\ref\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.pdb
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.GenerateResource.cache
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\ref\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.pdb
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.genruntimeconfig.cache
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.CopyComplete
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmComputadoras.resources
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmFactura.resources
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmHistorial.resources
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmMenu.resources
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmTelefonos.resources
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\FluentValidation.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.exe
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.deps.json
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.runtimeconfig.json
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.runtimeconfig.dev.json
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\ref\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.pdb
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\FluentValidation.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmComputadoras.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmFactura.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmHistorial.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmMenu.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmTelefonos.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.GenerateResource.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.CopyComplete
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\ref\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.pdb
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.genruntimeconfig.cache
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.exe
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.deps.json
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.runtimeconfig.json
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.runtimeconfig.dev.json
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\ref\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.pdb
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\FluentValidation.dll
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmComputadoras.resources
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmFactura.resources
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmHistorial.resources
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmMenu.resources
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmTelefonos.resources
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.GenerateResource.cache
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\ref\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.pdb
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.genruntimeconfig.cache
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmEspecificaciones.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.exe
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.deps.json
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.runtimeconfig.json
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.runtimeconfig.dev.json
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\ref\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Cibercafe_ElVicio.pdb
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\FluentValidation.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmEspecificaciones.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmComputadoras.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmFactura.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmHistorial.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmMenu.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.FrmTelefonos.resources
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.GenerateResource.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.csproj.CopyComplete
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\ref\Cibercafe_ElVicio.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.pdb
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Cibercafe_ElVicio\obj\Debug\net5.0-windows\Cibercafe_ElVicio.genruntimeconfig.cache

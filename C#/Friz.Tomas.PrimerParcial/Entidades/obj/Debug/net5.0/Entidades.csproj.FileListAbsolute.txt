@@ -1,0 +1,48 @@
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Tomi\Desktop\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Tomi\Desktop\2021C2_UTNFra_LaboII_2doD_PP\Parcial 1 de laboratorio 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Tomi\Desktop\laboratorio_2 (turno noche)\PARCIALES\PARCIAL 1\version 2 del parcial 1 de labo 2\Friz.Tomas.PrimerParcial\Entidades\obj\Debug\net5.0\Entidades.pdb

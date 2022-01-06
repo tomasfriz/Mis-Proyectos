@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6OZq8x60bVbgI4EgU3wOnmAhWG5TjIN5XfSwEiVKtZcLKb4BRfvPa6h74Yo+MSyH+MI1bB4GyPzsTzRSr2Svw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tomi\\Desktop\\laboratorio_2 (turno noche)\\PARCIALES\\PARCIAL 1\\version 2 del parcial 1 de labo 2\\Friz.Tomas.PrimerParcial\\Cibercafe_ElVicio\\Cibercafe_ElVicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomi\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Tomi\\.nuget\\packages\\fontawesome.sharp\\5.15.3\\fontawesome.sharp.5.15.3.nupkg.sha512"
+  ],
+  "logs": []
+}
