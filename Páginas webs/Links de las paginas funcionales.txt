@@ -1,7 +1,7 @@
 Alura Store: https://tomasfriz.github.io/Alura-Store/
 Apeperia: https://tomasfriz.github.io/Apeperia/
 Barbería Alura: https://tomasfriz.github.io/Barberia-Alura/
-Click Life: https://tomasfriz.github.io/Apeperia/
+Click Life: https://tomasfriz.github.io/Click-Life/
 Conviertete en Stormtrooper: https://tomasfriz.github.io/Conviertete-en-Stormtrooper/
 Alura Geek: https://tomasfriz.github.io/Desafio-Oracle-ONE---Front-End---E-commerce/
 Encriptador y Desencriptador: https://tomasfriz.github.io/Challenge-Oracle-ONE---Logica-de-Programacion---Semana-1-y-2/
